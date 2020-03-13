@@ -1,0 +1,31 @@
+,Model,Model_Year,Price_RRP,Category,Bike_Type,Frame_type,Frame_size,Weight,Permissible_max._weight,Range
+0, HNF Heisenberg      SD1 URBAN , 2018 , 3.590€ , City / Urban | - ,  Pedelec | bis 25 kmh  ,Herren,"S,M,L,XL",  21 kg  ,110 kg,100 km *
+1, HNF Heisenberg      UD1 Unisex 25 , 2017 , 3.345€ , City / Urban | - ,  Pedelec | bis 25 kmh  ,Unisex,"S,M,L,XL",  25 kg  ,125 kg,130 km *
+2, KTM      Macina Central RT 8 , 2019 ," $2,861 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,unisex,"46,51,56,43",  55 lbs  ,320 lbs,87 miles *
+3, KTM      Macina City Belt , 2019 ," $3,741 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,unisex,"46,51,56,43",  60 lbs  ,331 lbs,87 miles *
+4, KTM      Macina City HS , 2019 ," $3,081 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,unisex,"46,51,56,43",  55 lbs  ,320 lbs,87 miles *
+5, KTM      Macina City XL , 2019 ," $3,301 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,unisex,"46,51,56,43",  57 lbs  ,375 lbs,87 miles *
+6, KTM      Macina City , 2019 ," $3,301 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,unisex,"46,51,56,43",  57 lbs  ,331 lbs,87 miles *
+7, KTM      Macina FOLD , 2019 ," $2,861 "," Folding / Compact | 20,00 inch ",  Pedelec | up to 20 mph  ,unisex,20,  53 lbs  ,265 lbs,75 miles *
+8, KTM      Macina Style 10 PT-CX5i4 Herren , 2019 ," $3,521 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,male,"46,51,56,60",  55 lbs  ,320 lbs,87 miles *
+9, KTM      Macina Style 10 PT-CX5i4 Damen , 2019 ," $3,521 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,female,"46,51,56",  55 lbs  ,320 lbs,87 miles *
+10, KTM      Macina Fun 10 XL Herren , 2019 ," $3,301 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,male,"46,51,56,60",  55 lbs  ,375 lbs,87 miles *
+11, KTM      Macina Fun 10 XL Damen , 2019 ," $3,301 "," Lifestyle / Cruiser | 29,00 inch ",  Pedelec | up to 20 mph  ,female,"46,51,56",  55 lbs  ,375 lbs,87 miles *
+12, KTM      Macina Fun 9 Herren , 2019 , 2.799€ ," Lifestyle / Cruiser | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Herren,"46,51,56,60",  25 kg  ,145 kg,140 km *
+13, KTM      Macina Fun 9 Damen , 2019 , 2.799€ ," Lifestyle / Cruiser | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Damen,"46,51,56",  25 kg  ,145 kg,140 km *
+14, KTM      Macina Tour Damen , 2019 ," $3,301 "," Trekking Bike | 29,00 inch ",  Pedelec | up to 20 mph  ,female,"46,51,56",  55 lbs  ,320 lbs,87 miles *
+15, KTM      Macina City ABS , 2019 , 3.999€ ," Lifestyle / Cruiser | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Unisex,"46,51,56,43",  26 kg  ,145 kg,140 km *
+16, KTM      Macina Joy , 2019 , 2.299€ ," City / Urban | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Unisex,"46,51,56",  25 kg  ,145 kg,140 km *
+17, KTM      Macina Sport 9 UC-A+5i4 Herren , 2019 , 2.299€ ," Fitness / Rennrad | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Herren,"46,51,56,60",  24 kg  ,145 kg,140 km *
+18, KTM      Macina Sport 9 UC-A+5i4 Damen , 2019 , 2.299€ ," Fitness / Rennrad | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Damen,"46,51,56",  24 kg  ,145 kg,140 km *
+19, KTM      Macina Sport 10 PT Herren , 2019 , 2.999€ ," Fitness / Rennrad | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Herren,"46,51,56,60",  24 kg  ,145 kg,140 km *
+20, KTM      Macina Sport 11 PT-CX5i4 , 2019 , 3.199€ ," Fitness / Rennrad | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Damen,"46,51,56",  24 kg  ,145 kg,140 km *
+21, KTM      Macina Style XT11 Herren , 2019 , 3.599€ ," Lifestyle / Cruiser | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Herren,"46,51,56,60",  25 kg  ,145 kg,140 km *
+22, KTM      Macina Sport 10 PT Damen , 2019 , 2.999€ ," Fitness / Rennrad | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Damen,"46,51,56",  24 kg  ,145 kg,140 km *
+23, KTM      Macina Sport 10 SiHerren , 2019 , 2.799€ ," Fitness / Rennrad | 29,00 Zoll ",  Pedelec | bis 25 kmh  ,Damen,"46,51,43,56",  24 kg  ,145 kg,140 km *
+24, KTM      Macina Tour Herren , 2019 ," $3,301 "," Trekking Bike | 29,00 inch ",  Pedelec | up to 20 mph  ,male,"46,51,56,60",  55 lbs  ,320 lbs,87 miles *
+25, KTM      R2R CROSS Herren , 2019 ," $3,301 "," Mountain Bike / ATB | 29,00 inch ",  Pedelec | up to 20 mph  ,male,"46,51,56,60",  49 lbs  ,276 lbs,87 miles *
+26, KTM      R2R CROSS Damen , 2019 ," $3,301 "," Mountain Bike / ATB | 29,00 inch ",  Pedelec | up to 20 mph  ,female,"46,51,56",  49 lbs  ,276 lbs,87 miles *
+27, KTM      Macina Mini Me 241 , 2019 ," $2,200 "," City / Urban | 24,00 inch ",  Pedelec | up to 20 mph  ,child,34,  42 lbs  ,276 lbs,62 miles *
+28, KTM      Macina Race 273 11 PT-CX5I , 2019 ," $2,971 "," Mountain Bike / ATB | 28,00 inch ",  Pedelec | up to 20 mph  ,unisex,"38,43",  51 lbs  ,276 lbs,81 miles *
+29, KTM      Macina Ride 271 9 UC-A+5P4 , 2019 ," $2,420 "," Mountain Bike / ATB | 28,00 inch ",  Pedelec | up to 20 mph  ,unisex,"38,43,48",  49 lbs  ,276 lbs,81 miles *
