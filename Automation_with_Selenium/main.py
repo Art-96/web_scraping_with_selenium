@@ -5,7 +5,7 @@ import time
 import random
 from fake_useragent import UserAgent
 # link to library fake user-agent https://github.com/hellysmile/fake-useragent
-from proxy_auth_data import login,password
+from proxy_auth_data import login, assword
 
 
 user_agent_list =["Mozilla/5.0 (X11; CrOS x86_64 8172.45.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.64 Safari/537.36",
