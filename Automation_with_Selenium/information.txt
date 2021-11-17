@@ -1,0 +1,9 @@
+link to options chrome
+https://peter.sh/experiments/chromium-command-line-switches/
+
+link to fake-useragent
+https://pypi.org/project/fake-useragent/
+https://github.com/hellysmile/fake-useragent
+
+link to proxy
+https://proxy6.net/en/
