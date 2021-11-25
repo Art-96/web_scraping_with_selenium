@@ -1,0 +1,5 @@
+###### Requirements with Version Specifiers ######
+
+selenium==3.141.0
+
+chromedriver==96.0.4664.45
